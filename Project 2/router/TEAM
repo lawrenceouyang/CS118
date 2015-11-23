@@ -1,0 +1,15 @@
+CS118 Project 2 TEAM profile:
+
+Member 1: 	Lawrence Ouyang
+			504128219
+
+Contributions: 	Developed functions to recieve packets
+				Changed Makefile to be more versatile
+				Made adjustments to sr_arpcache
+
+Member 2:	Louis Truong
+			904170046
+
+Contributions:	Debugged recieve functions
+				Developed functions to send ICMP replies
+				Developed functions for ARP requests
